@@ -1,6 +1,6 @@
 import { useEffect } from "react"
 
-function App(){
+function App(){ 
 
     function redirect(e){
       console.log(e.target)
